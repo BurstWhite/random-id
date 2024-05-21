@@ -7,7 +7,7 @@ class RandomNumberApp(QWidget):
         super().__init__()
 
         # 设置窗口标题
-        self.setWindowTitle("学号抽取程序")
+        self.setWindowTitle("学号抽取器")
 
         # 创建一个垂直布局
         self.layout = QVBoxLayout()
